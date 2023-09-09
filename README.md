@@ -5,7 +5,7 @@ Hi everybody 👋 My name is Hieu, you can call me Toni
 I am a blog writer 👨‍💻 and an IT lecturer 🧑‍🏫
 ----------------------------------
 
-My major is Information and Communication Engineering, I have more than seven years experience in IT fields. I'm seft-motivated researcher. I'm passionate about cutting-edge technologies such as: Artificial Intelligence (AI) and Machine Learning (ML) 🤖, Cloud Computing ☁️,Security 🕵️, 6G Technology 📡... 
+My major is Information and Communication Engineering, I have more than seven years experience in IT fields. I'm a self-motivated researcher who graduated from Hanoi University Of Science and Technology 😉. I'm passionate about cutting-edge technologies such as: Artificial Intelligence (AI) and Machine Learning (ML) 🤖, Cloud Computing ☁️,Security 🕵️, 6G Technology 📡... 
 <br/>
 My hobbies are exercising 🏃‍♂️, traveling ✈️, and learning languages 📖.
 
