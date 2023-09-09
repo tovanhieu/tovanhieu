@@ -9,6 +9,7 @@ I'm a self-motivated researcher who graduated from Hanoi University Of Science a
 <br/>
 * 🌍 Currently I'm living in Ha Long city, Viet Nam
 * ✉️ You can contact me at [tovanhieu1996.hl@gmail.com](mailto:tovanhieu1996.hl@gmail.com)
+</br>
 My hobbies are exercising 🏃‍♂️, traveling ✈️, studying languages 📖, writing stuffs in: life-health-technology 🧑🏻‍💻.
 </br>
 Visit my website for more helpful posts: https://tovanhieu-bk.blogspot.com
