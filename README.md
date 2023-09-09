@@ -10,6 +10,7 @@ My major is Information and Communication Engineering. I'm a self-motivated rese
 * 🌍 Currently I'm living in Ha Long city, Viet Nam
 * ✉️ You can contact me at [tovanhieu1996.hl@gmail.com](mailto:tovanhieu1996.hl@gmail.com)
 My hobbies are exercising 🏃‍♂️, traveling ✈️, studying languages 📖, writing stuffs in: life-health-technology 🧑🏻‍💻.
+</br>
 Visit my website for more information: https://tovanhieu-bk.blogspot.com
 
 ### Skills
