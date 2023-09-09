@@ -26,6 +26,7 @@ You can visit my website for more helpful posts: https://tovanhieu-bk.blogspot.c
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc7KjHTXcgfW6r9P_Q3xsgbSdC-RewQObGtQ&usqp=CAU" width="30px" height="30px" alt="">
 <img src="https://icons.veryicon.com/png/o/miscellaneous/color-work-icon/blockchain-2.png" width="30px" height="30px" alt="">  
 </p>
+
 ### My social medias
 
 <p align="left"><a href="https://www.linkedin.com/in/tô-văn-hiệu-8b566a130/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
