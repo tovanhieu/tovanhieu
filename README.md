@@ -5,7 +5,7 @@ Hi everybody 👋 My name is Hieu, you can call me Toni
 I am a blog writer 👨‍💻 and an IT lecturer 🧑‍🏫
 ----------------------------------
 
-My major is Information and Communication Engineering, I have more than seven years experience in IT fields. I am passionate about cutting-edge technologies such as: Artificial Intelligence (AI) and Machine Learning (ML) 🤖, 6G Technology 📡, Cloud Computing ☁️,... 
+My major is Information and Communication Engineering, I have more than seven years experience in IT fields. I am passionate about cutting-edge technologies such as: Artificial Intelligence (AI) and Machine Learning (ML) 🤖, Cloud Computing ☁️,Security 🕵️, 6G Technology 📡... 
 <br/>
 My hobbies are exercising 🏃‍♂️, traveling ✈️, and learning languages 📖.
 
@@ -13,8 +13,6 @@ My hobbies are exercising 🏃‍♂️, traveling ✈️, and learning language
 * ✉️ You can contact me at [tovanhieu1996.hl@gmail.com](mailto:tovanhieu1996.hl@gmail.com)
 
 ### Skills
-
-
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="30px" height="30px" alt="">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="30px" height="30px" alt="">
@@ -24,10 +22,8 @@ My hobbies are exercising 🏃‍♂️, traveling ✈️, and learning language
 <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="30px" height="30px" alt="">
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/kubernetes-icon.png" width="30px" height="30px" alt="">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc7KjHTXcgfW6r9P_Q3xsgbSdC-RewQObGtQ&usqp=CAU" width="30px" height="30px" alt="">
-<img src="https://icons.veryicon.com/png/o/miscellaneous/color-work-icon/blockchain-2.png" width="30px" height="30px" alt="">
-  
+<img src="https://icons.veryicon.com/png/o/miscellaneous/color-work-icon/blockchain-2.png" width="30px" height="30px" alt="">  
 </p>
-
 
 ### Socials
 
