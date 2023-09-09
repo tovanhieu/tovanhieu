@@ -7,10 +7,10 @@ I am a blog writer 👨‍💻 and an IT lecturer 🧑‍🏫
 
 My major is Information and Communication Engineering. I'm a self-motivated researcher who graduated from Hanoi University Of Science and Technology 😉, I have more than seven years experience in IT fields. I'm passionate about cutting-edge technologies such as: Artificial Intelligence (AI) and Machine Learning (ML) 🤖, Cloud Computing ☁️,Security 🕵️, 6G Technology 📡... 
 <br/>
-My hobbies are exercising 🏃‍♂️, traveling ✈️, and learning languages 📖.
-
 * 🌍 Currently I'm living in Ha Long city, Viet Nam
 * ✉️ You can contact me at [tovanhieu1996.hl@gmail.com](mailto:tovanhieu1996.hl@gmail.com)
+My hobbies are exercising 🏃‍♂️, traveling ✈️, studying languages 📖, writing stuffs in: life-health-technology 🧑🏻‍💻.
+Visit my website for more information: https://tovanhieu-bk.blogspot.com
 
 ### Skills
 <p align="left">
