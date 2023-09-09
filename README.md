@@ -1,16 +1,34 @@
-### Hi there 👋
+# Readme.md
+Hi everybody 👋 My name is Hieu, you can call me Toni
+============================
 
-<!--
-**tovanhieu/tovanhieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a blog writer 👨‍💻 and an IT lecturer 🧑‍🏫
+----------------------------------
 
-Here are some ideas to get you started:
+My major is Information and Communication Engineering, I have more than seven years experience in IT fields. I am passionate about cutting-edge technologies such as: Artificial Intelligence (AI) and Machine Learning (ML) 🤖, 6G Technology 📡, Cloud Computing ☁️,... 
+<br/>
+My hobbies are exercising 🏃‍♂️, traveling ✈️, and learning languages 📖.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍 Currently I'm living in Ha Long city, Viet Nam
+* ✉️ You can contact me at [tovanhieu1996.hl@gmail.com](mailto:tovanhieu1996.hl@gmail.com)
+
+### Skills
+
+
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="30px" height="30px" alt="">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="30px" height="30px" alt="">
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="30px" height="30px" alt="">
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png"  width="30px" height="30px" alt="">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="30px" height="30px" alt="">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="30px" height="30px" alt="">
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/kubernetes-icon.png" width="30px" height="30px" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc7KjHTXcgfW6r9P_Q3xsgbSdC-RewQObGtQ&usqp=CAU" width="30px" height="30px" alt="">
+<img src="https://icons.veryicon.com/png/o/miscellaneous/color-work-icon/blockchain-2.png" width="30px" height="30px" alt="">
+  
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/tovanhieu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/hieutv96" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/tô-văn-hiệu-8b566a130/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
