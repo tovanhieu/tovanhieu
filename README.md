@@ -14,6 +14,7 @@ My hobbies are exercising 🏃‍♂️, traveling ✈️, studying languages �
 </br>
 You can visit my website for more helpful posts: https://tovanhieu-bk.blogspot.com
 </br>
+
 ### Skills
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="30px" height="30px" alt="">
