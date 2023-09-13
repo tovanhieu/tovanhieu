@@ -10,6 +10,7 @@ I'm a self-motivated researcher who graduated from Hanoi University Of Science a
 </br>
 My hobbies are exercising 🏃‍♂️, traveling ✈️, studying languages 📖, during my leisure time I write blogs and stuffs in: life-health-technology 🧑🏻‍💻.
 You can visit my website for more helpful posts: https://tovanhieu-bk.blogspot.com
+</br>
 ### Skills
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="30px" height="30px" alt="">
