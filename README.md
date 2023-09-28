@@ -4,7 +4,7 @@ Hi everybody 👋 My name is Hieu, but you can call me Toni
 
 I am a blogger 👨‍💻 and a Lecturer 🧑‍🏫
 ----------------------------------
-I'm a self-motivated researcher who graduated from Hanoi University Of Science and Technology 😉. My major is Information and Communication Engineering. I have more than seven years experience in IT field, deep-dive both in hardware and software developments. I'm passionate about cutting-edge technologies: Cloud Computing ☁️, Security 🕵️, AI/ML🤖,...
+I'm a self-motivated researcher who graduated from Hanoi University Of Science and Technology 😉. My major is Information and Communication Engineering. I have more than seven years experience in IT, deep-dive both in hardware and software development. I'm passionate about cutting-edge technologies: Cloud Computing ☁️, Security 🕵️, AI/ML🤖,...
 * 🌍 Currently, I'm living in Ha Long City, Vietnam, where I'm conducting independent research and teaching at MindX Technology Ha Long.
 * ✉️ You can contact me at [tovanhieu1996.hl@gmail.com](mailto:tovanhieu1996.hl@gmail.com)
 </br>
