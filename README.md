@@ -1,5 +1,5 @@
 # Readme.md
-Hi everybody 👋 My name is Hieu, you can call me Toni
+Hi everybody 👋 My name is Hieu, but you can call me Toni
 ============================
 
 I am a blogger 👨‍💻 and a Lecturer 🧑‍🏫
