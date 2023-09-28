@@ -8,7 +8,7 @@ I'm a self-motivated researcher who graduated from Hanoi University Of Science a
 * 🌍 Currently, I'm living in Ha Long City, Vietnam, where I'm conducting independent research and teaching at MindX Technology Ha Long.
 * ✉️ You can contact me at [tovanhieu1996.hl@gmail.com](mailto:tovanhieu1996.hl@gmail.com)
 </br>
-My hobbies are exercising 🏃‍♂️, traveling ✈️, studying languages 📖, during my leisure time I write blogs and stuffs in: life and technology 🧑🏻‍💻.
+My hobbies are exercising 🏃‍♂️, traveling ✈️, studying languages 📖. During my leisure time I write blogs and stuffs about life and technology 🧑🏻‍💻.
 You can visit my website for more helpful posts: https://tovanhieu-bk.blogspot.com
 </br>
 
