@@ -12,6 +12,8 @@ My hobbies are exercising 🏃‍♂️, traveling ✈️, studying languages �
 You can visit my website for more helpful posts: https://tovanhieu-bk.blogspot.com
 </br>
 
+![Hieu's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tovanhieu&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
 ### Skills
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="30px" height="30px" alt="">
