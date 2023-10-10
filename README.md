@@ -7,9 +7,9 @@ I am a software engineer 👨‍💻, blogger and lecturer 🧑‍🏫
 I'm a self-motivated student and researcher who graduated from Hanoi University Of Science and Technology 😉. My major is Information and Communication Engineering. I have more than five years experience in IT field, with a deep-dive in Cloud Computing and Networking. I'm passionate about cutting-edge technologies: Cloud Computing ☁️, Security 🕵️, AI/ML🤖,...
 * 🌍 Currently, I'm living in Ha Long City, Vietnam, where I'm conducting independent research and teaching at MindX Technology Ha Long.
 * ✉️ You can contact me at [tovanhieu1996.hl@gmail.com](mailto:tovanhieu1996.hl@gmail.com)
-</br>
 During my leisure time I write blogs and stuffs about life and technology 🧑🏻‍💻 at https://tovanhieu-bk.blogspot.com
 <br>
+
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/tovanhieu?cardType=octocat&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 <br>
