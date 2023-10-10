@@ -13,6 +13,8 @@ During my leisure time I write blogs and stuffs about life and technology ðŸ§‘ðŸ
 <br>
 
 ![Hieu's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tovanhieu&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tovanhieu)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Skills
 <p align="left">
