@@ -12,8 +12,12 @@ During my leisure time I write blogs and stuffs about life and technology ðŸ§‘ðŸ
 </br>
 <br>
 
-![Hieu's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tovanhieu&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tovanhieu)](https://github.com/anuraghazra/github-readme-stats)
+![Hieu's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tovanhieu&show_icons=false&theme=tokyonight&hide=contribs,prs,issues)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tovanhieu&layout=compact)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tovanhieu&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### Skills
