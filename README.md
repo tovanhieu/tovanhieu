@@ -30,7 +30,7 @@ I'm a self-motivated student and researcher who graduated from Hanoi University 
 </p>
 
 ### My social medias
-<p align="left"><a href="https://www.linkedin.com/in/tô-văn-hiệu-8b566a130/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<p align="left"><a href="www.linkedin.com/in/hieutv96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.youtube.com/@hieutovan96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 <a href="https://twitter.com/hieutv96" target="_blank" rel="noreferrer"><img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" width="32" height="32" /></a></p>
 
