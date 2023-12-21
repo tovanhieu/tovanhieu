@@ -8,6 +8,7 @@ I'm a self-motivated student and researcher who graduated from Hanoi University 
 * 🌍 Currently, I'm living in Ha Long City.
 * ✉️ You can contact me at [tovanhieu1996.hl@gmail.com](mailto:tovanhieu1996.hl@gmail.com)
 <br>
+* During my leisure time I write blogs and stuffs about life and technology 🧑🏻‍💻 at https://tovanhieu-bk.blogspot.com
 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/tovanhieu?cardType=octocat&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
