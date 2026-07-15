@@ -14,7 +14,8 @@ I'm a self-motivated student and researcher who graduated from Hanoi University 
 <br>
 
 ### Top Languages
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tovanhieu&layout=compact)
+[My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tovanhieu&layout=compact)
+
 <br>
 
 ### Skills
