@@ -11,7 +11,6 @@ I'm a self-motivated student and researcher who graduated from Hanoi University 
 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/tovanhieu?cardType=octocat&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
-<br>
 
 [My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tovanhieu&layout=compact)
 [GitHub Streak](https://streak-stats.demolab.com?user=tovanhieu&theme=dark)
