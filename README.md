@@ -34,6 +34,6 @@ I'm a self-motivated student and researcher who graduated from Hanoi University 
 <p align="left"><a href="https://www.linkedin.com/in/hieutv96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.youtube.com/@hieutv_96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 <a href="https://x.com/TVnHiu212075" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/ea7afb4e-2979-4b96-b043-2dec90655935" width="32" height="32" /></a><a href="https://www.facebook.com/profile.php?id=100010855276896&locale=vi_VN" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/736x/60/c5/4d/60c54d07974fb3d47ce2936098f0449e.jpg" width="40" height="40" /></a>
-<a href="https://www.instagram.com/hieutv96/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="32" height="32" /></a></p>
+<a href="https://www.instagram.com/hieutv96/" target="_blank" rel="noreferrer"><img src="https://share.google/kPmHz9qOKClOxUnm8" width="32" height="32" /></a></p>
 
 
