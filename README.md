@@ -13,8 +13,7 @@ I'm a self-motivated student and researcher who graduated from Hanoi University 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/tovanhieu?cardType=octocat&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tovanhieu&layout=compact)
-<img src="hhttps://www.flaticon.com/free-icon/programming-language_3195692" width="30px" height="30px" alt>
+### Top Languages
 <br>
 
 ### Skills
