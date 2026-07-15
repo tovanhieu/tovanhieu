@@ -15,6 +15,7 @@ I'm a self-motivated student and researcher who graduated from Hanoi University 
 
 [My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tovanhieu&layout=compact)
 [GitHub Streak](https://streak-stats.demolab.com?user=tovanhieu&theme=dark)
+[Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tovanhieu&theme=tokyo-night)
 
 <br>
 
